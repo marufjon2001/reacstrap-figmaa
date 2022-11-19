@@ -1,0 +1,27 @@
+.CollectionComp {
+  width: 100%;
+}
+.CollectionComp .text_big {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 58px;
+  /* identical to box height, or 90% */
+  text-align: center;
+  color: #222222;
+}
+.CollectionComp .text_1{
+    position: relative;
+}
+.CollectionComp .text_1 p::after{
+    contain: ' ';
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    z-index: 2;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}

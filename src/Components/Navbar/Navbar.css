@@ -1,0 +1,9 @@
+.Navbar .col ul li a {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #222222;
+  text-decoration: none;
+}
