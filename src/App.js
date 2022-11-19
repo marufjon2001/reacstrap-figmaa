@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import Collection from "./Components/Collection/Collection";
-import Community from "./Components/Community/Community"
+import Community from "./Components/Community/Community";
 import Content from "./Components/Content/Content";
 import Home from "./Components/Home/Home";
+import Meetour from "./Components/Meetour/Meetour";
 import Navbar from "./Components/Navbar/Navbar";
 import Roadmap from "./Components/Roadmap/Roadmap";
 
@@ -15,7 +16,8 @@ class App extends Component {
         <Collection />
         <Content />
         <Roadmap />
-        <Community/>
+        <Community />
+        <Meetour />
       </div>
     );
   }
