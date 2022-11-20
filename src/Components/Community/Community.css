@@ -1,40 +1,19 @@
-.community {
+.com_com {
+  width: 100%;
+  height: 100vh;
+  /* border: 2px solid black; */
+}
+.Comu_nity {
+  width: 500px;
+  height: 480px;
   background-image: url("../../images/Roadmap/Vector1.png");
-  background-repeat: no-repeat;
-  height: 100vh;
-  width: 100%;
-  padding: 100px 50px;
-  text-align:center ;
 }
-.community11 {
-    background-image: url("../../images/Roadmap/image1.png");
-  background-repeat: no-repeat;
+.Comunity111 {
+  width: 60%;
+  height: 70%;
 }
-.opening {
-    background-image: url("../../images/Roadmap/Vector1.png");
-  background-repeat: no-repeat;
-  height: 100vh;
-  width: 100%;
-  padding: 100px 50px;
-  text-align:center ;
-}
-.imgirl {
-    background-image: url("../../images/Community/girl.png");
-  background-repeat: no-repeat;
-}
-.charity {
-  background-image: url("../../images/Roadmap/Vector1.png");
-  background-repeat: no-repeat;
-  height: 100vh;
-  width: 100%;
-  padding: 100px 50px;
-  text-align:center;
-}
-.first {
-  background-image: url("../../images/Community/IMAGE\ \(8\).png");
-  background-repeat: no-repeat;
-  height: 100vh;
-  width: 100%;
-  padding: 100px 50px;
-  text-align:center ;
+.Call {
+  background-image: url("../../images/Roadmap/image1.png");
+  height: 40%;
+  border-radius: 80px;
 }
